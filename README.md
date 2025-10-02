@@ -1,5 +1,5 @@
 # rsoc-week2 
- [part 1](#System-on-Chip-(SoC)-Design-Fundamentals)<br>
+ [Part 1](#System-on-Chip-(SoC)-Design-Fundamentals)<br>
  [Part 2](part2.md)
 # System-on-Chip (SoC) Design Fundamentals
 
